@@ -2,7 +2,7 @@
 
 *Cue applause* 👏👏👏  
 
-Ladies and gentlemen, welcome to *The Front-End Show*! I’m your host, **Abdelrahman Ahmed**, a **Front End Developer** who’s here to entertain, design, and code my way into your hearts.  
+Ladies and gentlemen, welcome to *My Next project with Abd El-rahman Show*! I’m your host, **Abdelrahman Ahmed**, a **Front End Developer** who’s here to entertain, design, and code my way into your hearts.  
 
 ![Project GIF](./abdelrahman.gif)
 
